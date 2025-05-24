@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/java/org/example/config/WebConfig.java">
+</file>
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/java/org/example/server/ExampleServer.java">
+</file>
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/java/org/example/controller/DiameterClientController.java">
+</file>
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/java/org/example/controller/DiameterServerController.java">
+</file>
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/java/org/example/DiameterApplication.java">
+</file>
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/java/org/example/service/DiameterServerService.java">
+</file>
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/java/org/example/service/DiameterClientService.java">
+</file>
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/java/org/example/client/ExampleClient.java">
+</file>
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/resources/log4j.properties">
+</file>
+<file name="/Users/aravind/Projects/jdiameter/examples/ulr-simulator/src/main/resources/application.properties">
+</file>
+</checkstyle>

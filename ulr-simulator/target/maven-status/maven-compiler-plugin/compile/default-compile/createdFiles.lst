@@ -1,0 +1,10 @@
+org/example/controller/DiameterServerController.class
+org/example/client/ExampleClient.class
+org/example/service/DiameterServerService.class
+org/example/client/ExampleClient$1.class
+WebConfig$1.class
+WebConfig.class
+org/example/service/DiameterClientService.class
+org/example/DiameterApplication.class
+org/example/server/ExampleServer.class
+org/example/controller/DiameterClientController.class
